@@ -8,7 +8,7 @@ In the video we can see the following:
 
 3.  We connect to the Postgres container, and look at the empty `task` table. Our solution includes an initial `alembic` migration that defines the `task` schema. This schema is also shown on the video.
 
-4.  We add tasks via the React Chrome frontend on the browser. We see that these tasks are reflected on the previously empty `task` table.
+4.  We add tasks via the React frontend on the Chrome browser. We see that these tasks are reflected on the previously empty `task` table.
 
 5.  We send the following GET request to the FastAPI backend, which returns a JSON list of all tasks:
     
