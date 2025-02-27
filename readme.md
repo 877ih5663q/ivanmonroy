@@ -1,8 +1,3 @@
----
-title: org
-date: 2025-01-31T17:52:00-06:00
----
-
 We have recorded a video walkthrough of the Task Tracker App.
 
 In the video we can see the following:
